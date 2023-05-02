@@ -1,3 +1,7 @@
+#=================================
+#     Su Zheng, CUHK
+# -> The exciting HybridMap algorithm
+#=================================
 import sys
 import random
 import math

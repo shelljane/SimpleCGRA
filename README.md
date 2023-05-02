@@ -2,6 +2,7 @@
 *SimpleCGRA*: An Open-Source Platform for Temporal-Mapping CGRAs
 
 We are still tidying the codes of *SimpleCGRA*. The codes of all modules are available. We will keep improving *SimpleCGRA*. 
+Note that there exist various repos named SimpleCGRA due to some historical reasons. Recently, it is maintained in shelljane/SimpleCGRA.  
 
 ## How to run *SimpleCGRA*?
 

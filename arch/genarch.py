@@ -1,3 +1,7 @@
+#=====================================
+# Author: Su Zheng, CUHK
+#=====================================
+
 import sys
 from unittest import result 
 sys.path.append(".")

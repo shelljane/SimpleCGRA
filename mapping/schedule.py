@@ -1,3 +1,7 @@
+#==========================
+#    Su Zheng, CUHK
+# -> The exciting LC-Schedule algorithm
+#==========================
 import sys
 sys.path.append(".")
 

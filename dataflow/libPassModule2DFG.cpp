@@ -1,3 +1,4 @@
+// The LLVM pass is the only part that relies on C++
 #include "libPassModule2DFG.h"
 
 using namespace std; 

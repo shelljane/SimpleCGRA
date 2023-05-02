@@ -1,3 +1,7 @@
+#=============================
+#      Su Zheng, CUHK
+# -> The exciting DSE algorithm for CGRA
+#=============================
 import os
 import sys 
 sys.path.append(".")

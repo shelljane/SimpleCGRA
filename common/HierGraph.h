@@ -1,6 +1,8 @@
 #ifndef __FASTCGRA_HIERGRAPH__
 #define __FASTCGRA_HIERGRAPH__
 
+// Note that SimpleGGRA does not rely on these C++ files, which are for FastCGRA
+
 #include "Common.h"
 #include "Logger.h"
 #include "HyperGraph.h"
